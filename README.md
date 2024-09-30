@@ -21,8 +21,6 @@ Welcome to my GitHub profile! I'm a **Tech Enthusiast** 🚀, **Game Developer**
 > **Technologies**: Unity, C#, 3D Game Development
 
 
-
-
 ## 💻 **Skills & Technologies**
 
 <p align="center">
@@ -46,20 +44,3 @@ Welcome to my GitHub profile! I'm a **Tech Enthusiast** 🚀, **Game Developer**
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
-
-## Hi there 👋
-
-<!--
-**realitysynthesizer/realitysynthesizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
