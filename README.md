@@ -42,5 +42,8 @@ Welcome to my GitHub profile! I'm a **Tech Enthusiast** 🚀, **Game Developer**
   </a> &nbsp;
   <a href="https://www.instagram.com/harshhvermaa_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="50" height="50"/>
+  </a> &nbsp;
+  <a href="mailto:ayush2412200@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="50" height="50"/>
   </a>
 </p>
